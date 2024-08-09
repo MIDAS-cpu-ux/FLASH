@@ -1,0 +1,23 @@
+[33mcommit 54265955852cd1114ccd9ac5577d9c5bc8be384e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32m))[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MIDAS-cpu-ux <miku6122006@gmail.com>
+Date:   Fri Aug 9 17:38:29 2024 +0700
+
+    Update calculator.c
+
+[33mcommit e68d399066aadcf27b862c121a148c6d7d9ca751[m
+Author: MIDAS-cpu-ux <miku6122006@gmail.com>
+Date:   Fri Aug 9 17:33:26 2024 +0700
+
+    Add mario.exe
+
+[33mcommit e4b6ef044a210940c1bd11b7d92dbea8f61bac39[m
+Author: MIDAS-cpu-ux <miku6122006@gmail.com>
+Date:   Fri Aug 9 17:27:29 2024 +0700
+
+    Add mario.exe file
+
+[33mcommit 8f660bd96f80e3573dad74dc70e65de116ccff14[m[33m ([m[1;31morigin/))[m[33m)[m
+Author: MIDAS-cpu-ux <miku6122006@gmail.com>
+Date:   Fri Aug 9 17:17:32 2024 +0700
+
+    Add mario.c file
